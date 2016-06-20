@@ -1,0 +1,202 @@
+
+{
+  "cat_brands": [
+    {
+      "name": "PURRINA",
+      "breeds": [
+        {
+          "breed": "Siamese",
+          "volumes": [
+            {
+              "name": "Kitten, 20 oz",
+              "price": 19.99
+            },
+            {
+              "name": "Kitten, 32 oz",
+              "price": 26.99
+            },
+             {
+              "name": "Kitten, 64 oz",
+              "price": 34.99
+            }, 
+            {
+              "name": "Elite, 20 oz",
+              "price": 24.99
+            }, 
+            {
+              "name": "Elite, 40 oz",
+              "price": 47.99
+            }
+          ]
+        },
+        {
+          "breed": "Bengal",
+          "volumes": [
+            {
+              "name": "Kitten, 20 oz",
+              "price": 19.99
+            },
+            {
+              "name": "Kitten, 32 oz",
+              "price": 26.99
+            },
+             {
+              "name": "Kitten, 64 oz",
+              "price": 34.99
+            }, 
+            {
+              "name": "Elite, 20 oz",
+              "price": 24.99
+            }, 
+            {
+              "name": "Elite, 40 oz",
+              "price": 47.99
+            }
+          ]
+        },
+        {
+          "breed": "Snowshoe",
+          "volumes": [
+            {
+              "name": "Kitten, 20 oz",
+              "price": 19.99
+            },
+            {
+              "name": "Kitten, 32 oz",
+              "price": 26.99
+            },
+             {
+              "name": "Kitten, 64 oz",
+              "price": 34.99
+            }, 
+            {
+              "name": "Elite, 20 oz",
+              "price": 24.99
+            }, 
+            {
+              "name": "Elite, 40 oz",
+              "price": 47.99
+            }
+          ]
+        },{
+          "breed": "Munchkin",
+          "volumes": [
+            {
+              "name": "Kitten, 20 oz",
+              "price": 19.99
+            },
+            {
+              "name": "Kitten, 32 oz",
+              "price": 26.99
+            },
+             {
+              "name": "Kitten, 64 oz",
+              "price": 34.99
+            }, 
+            {
+              "name": "Elite, 20 oz",
+              "price": 24.99
+            }, 
+            {
+              "name": "Elite, 40 oz",
+              "price": 47.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MEOW MEAL",
+      "breeds": [
+        {
+          "breed": "Manx",
+          "volumes": [
+            {
+              "name": "Kitten, 24 oz",
+              "price": 19.99
+            },
+            {
+              "name": "Kitten, 48 oz",
+              "price": 26.99
+            },
+             {
+              "name": "Adult, 28 oz",
+              "price": 34.99
+            }, 
+            {
+              "name": "Adult, 56 oz",
+              "price": 24.99
+            }
+            
+          ]
+        },
+        {
+          "breed": "Egyptian Mau",
+          "volumes": [
+            {
+              "name": "Kitten, 24 oz",
+              "price": 19.99
+            },
+            {
+              "name": "Kitten, 48 oz",
+              "price": 26.99
+            },
+             {
+              "name": "Adult, 28 oz",
+              "price": 34.99
+            }, 
+            {
+              "name": "Adult, 56 oz",
+              "price": 24.99
+            }
+            
+          ]
+        },
+        {
+          "breed": "Himalayan",
+          "volumes": [
+            {
+              "name": "Kitten, 24 oz",
+              "price": 19.99
+            },
+            {
+              "name": "Kitten, 48 oz",
+              "price": 26.99
+            },
+             {
+              "name": "Adult, 28 oz",
+              "price": 34.99
+            }, 
+            {
+              "name": "Adult, 56 oz",
+              "price": 24.99
+            }
+            
+          ]
+        },
+        {
+          "breed": "Rag Doll",
+          "volumes": [
+            {
+              "name": "Kitten, 24 oz",
+              "price": 19.99
+            },
+            {
+              "name": "Kitten, 48 oz",
+              "price": 26.99
+            },
+             {
+              "name": "Adult, 28 oz",
+              "price": 34.99
+            }, 
+            {
+              "name": "Adult, 56 oz",
+              "price": 24.99
+            }
+            
+          ]
+        }
+      ]
+    }
+  ]
+}
