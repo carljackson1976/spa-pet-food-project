@@ -1,0 +1,38 @@
+body{       font-family: tahoma; sans-serif;
+	        background-color: #0CA9E8;
+
+}
+.brandName{	
+	        display:inline-block;
+	        width:47.5%;
+			border: 2px solid white;
+			padding: 6px;
+            margin:10px;}
+.brandName .type:nth-child(even){
+			background:#FED495;
+}
+.brandName .type:nth-child(odd){
+			background:#FEFBFF;
+}
+.brandName .breed:nth-child(even){
+			background:#FED495;
+}
+.brandName .breed:nth-child(odd){
+			background:#FEFBFF;
+}
+.breedname{
+			font-size:large;
+			font-weight:bold;
+}
+.typename{
+			font-size:large;
+			font-weight:bold;
+}
+.brandName div:first-child{
+			font-size:larger;
+			font-weight:bold;
+}
+.breed{height:125px;}
+#catfoodlist{display:flex;}
+#dogfoodlist{display:flex;}
+
